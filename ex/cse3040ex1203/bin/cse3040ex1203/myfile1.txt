@@ -1,0 +1,4 @@
+Hello, my name is Harry Potter.
+I am a student in the Java Language class.
+I am trying to write this text to a file.
+Thank you.
